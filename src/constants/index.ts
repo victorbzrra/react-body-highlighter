@@ -6,6 +6,8 @@ export const DEFAULT_MUSCLE_DATA: Record<Muscle, IMuscleData> = {
   'lower-back': { exercises: [], frequency: 0 },
   chest: { exercises: [], frequency: 0 },
   biceps: { exercises: [], frequency: 0 },
+  'left-biceps': { exercises: [], frequency: 0 },
+  'right-biceps': { exercises: [], frequency: 0 },
   triceps: { exercises: [], frequency: 0 },
   forearm: { exercises: [], frequency: 0 },
   'back-deltoids': { exercises: [], frequency: 0 },

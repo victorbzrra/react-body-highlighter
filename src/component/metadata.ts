@@ -6,6 +6,8 @@ export const MuscleType = {
   LOWER_BACK: 'lower-back',
   CHEST: 'chest',
   BICEPS: 'biceps',
+  LEFT_BICEPS: 'left-biceps',
+  RIGHT_BICEPS: 'right-biceps',
   TRICEPS: 'triceps',
   FOREARM: 'forearm',
   BACK_DELTOIDS: 'back-deltoids',
